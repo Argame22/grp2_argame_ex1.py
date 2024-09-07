@@ -34,7 +34,7 @@ print("Exponential Operation:", f"{a} ** {b} = {result}")
 
 #Task 2: Integer with and without underscores
 print("Task 2: Integer Literals with Underscores")
-num1 = 25_000_000  # with underscores
+num1 = "25_000_000"  # with underscores
 num2 = 25000000  # without underscores
 
 print("num1:", num1)
